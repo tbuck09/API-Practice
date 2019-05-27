@@ -1,4 +1,5 @@
-# Module 6
+# API-Practice
+This is the repository for the DU Data Analytics Bootcamp Module-6 homework for practice requesting data from an API and using Python for data exploration.
 
 ## Objectives
 * Request data from the [Open Weather Map API](https://openweathermap.org/api "OMW API")
